@@ -7,8 +7,8 @@
 #  Vídeo Demonstrativo
 https://github.com/user-attachments/assets/729c15ee-d953-4048-8a3a-d98b354a7fb4
 
-# Tecnologias Usadas 
- HTML
+# Dependências 
+ HTML 
  CSS 
 
-Ide usada para criação: Visual Studio Code
+
