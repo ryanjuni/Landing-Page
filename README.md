@@ -8,7 +8,9 @@
 https://github.com/user-attachments/assets/729c15ee-d953-4048-8a3a-d98b354a7fb4
 
 # Dependências 
- HTML 
- CSS 
 
-
+ <ol>
+  <li>HTML </li>
+  <li>CSS </li>
+ </ol>
+ 
